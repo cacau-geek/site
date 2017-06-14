@@ -1,0 +1,9 @@
+.w3-red, .w3-hover-red:hover {
+    color: #fff!important;
+    background-color: #d64847!important;
+}
+
+.w3-indigo, .w3-hover-indigo:hover {
+    color: #FFF !important;
+    background-color: #C0A636 !important;
+}
